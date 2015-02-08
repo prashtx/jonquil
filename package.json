@@ -1,0 +1,16 @@
+{
+  "name": "jonquil",
+  "version": "0.0.0",
+  "description": "jq as a service",
+  "main": "lib/server.js",
+  "scripts": {
+    "start": "node lib/server.js"
+  },
+  "author": "Prashant Singh",
+  "license": "BSD",
+  "dependencies": {
+    "routes-router": "^4.1.2",
+    "logfmt": "^1.2.0",
+    "hyperquest": "^1.0.1"
+  }
+}
