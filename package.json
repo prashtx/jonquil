@@ -12,6 +12,7 @@
     "routes-router": "^4.1.2",
     "logfmt": "^1.2.0",
     "hyperquest": "^1.0.1",
-    "corsify": "^2.0.0"
+    "corsify": "^2.0.0",
+    "hyperdirect": "0.0.0"
   }
 }
