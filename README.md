@@ -22,3 +22,5 @@ To perform the equivalent with jonquil, you would request the following URL:
 ```
 https://jonquil.herokuapp.com/jq?url=https%3A%2F%2Fgit.io%2FbdAQ&f=%7Btype%3A%22FeatureCollection%22%2C+features%3A%5B.%5B%5D+%7C+%7Btype%3A%22Feature%22%2Cproperties%3A+%7Bname%3A+.name%7D%2C+geometry%3A%7Btype%3A%22Point%22%2Ccoordinates%3A%5B.location%5B1%5D%2C.location%5B0%5D%5D%7D%7D%5D%7D
 ```
+
+For help generating the URL, see the [jonquil helper tool](https://prashtx.github.io/jonquil).
